@@ -12,10 +12,10 @@ _Technologies :_
 _Description :_
 ['What has to be done'](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/Mets-Tes-Hauts)
 
-## Project provided
+### Project provided
 
 We thought we would have followed this wireframe
-['first layout idea on Figma'](https://www.figma.com/file/MUSukZoNaNOy8YAq28198SkW/OpenWeatherMap?node-id=0%3A1)
+['first layout idea on Figma'](https://www.figma.com/file/MUSukZoNaNOy8YAq28198SkW/OpenWeatherMap?node-id=0%3A1)  
 we could, but we had new ideas developping and extracting datas, at the end the two results are completely different.
 
 Instead of a single projet split by tasks, that only one person does,
